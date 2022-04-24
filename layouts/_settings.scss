@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: "Poppins";
+    src: url(/fonts/Poppins/Poppins-Medium.ttf);  
+}
+
+
+
+$font1: "Poppins", sans-serif;
+$black1: rgb(17, 17, 17);
+$white1: rgb(243, 243, 243);
+$blue1: rgb(78, 199, 255);
+$grey1: rgb(209, 209, 209);
+$grey2: rgb(233, 233, 233);
+$grey3: rgb(206, 51, 51);
+
+
+*{
+    background-color: rgb(255, 0, 212);
+    text-transform: uppercase;
+}
